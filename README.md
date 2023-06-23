@@ -1,16 +1,15 @@
-### Hi there 👋
+### Ben vindo ao meu perfil
 
-<!--
-**AllyssonBR/AllyssonBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 14y
 
-Here are some ideas to get you started:
+- Estudante do 1ano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudo JavaScript no Alura
+
+### CONTATO
+
+allysson.berlande@escola.pr.gov.br
+
+41 991492446
+
+
